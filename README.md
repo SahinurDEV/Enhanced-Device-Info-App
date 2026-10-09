@@ -127,8 +127,8 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devSahinur/device-info-app.git
-   cd device-info-app
+   git clone https://github.com/SahinurDEV/Enhanced-Device-Info-App.git
+   cd Enhanced-Device-Info-App
    ```
 
 2. **Install Dependencies**
@@ -315,7 +315,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sahinur**
-- GitHub: [@devSahinur](https://github.com/devSahinur)
+- GitHub: [@devSahinur](https://github.com/SahinurDEV)
 - Website: [sahinur.dev](https://sahinur.dev)
 - Email: infosahinur@gmail.com
 
@@ -349,6 +349,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Built with ❤️ by [Sahinur](https://github.com/devSahinur)**
+**Built with ❤️ by [Sahinur](https://github.com/SahinurDEV)**
 
 </div>
