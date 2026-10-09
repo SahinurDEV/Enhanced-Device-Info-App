@@ -315,7 +315,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sahinur**
-- GitHub: [@devSahinur](https://github.com/SahinurDEV)
+- GitHub: [@SahinurDEV](https://github.com/SahinurDEV)
 - Website: [sahinur.dev](https://sahinur.dev)
 - Email: infosahinur@gmail.com
 
